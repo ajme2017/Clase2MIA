@@ -1,6 +1,8 @@
 # Clase2MIA
 Breve ejemplo de un analizador léxico y sintáctico usando Flex y Bison
+
 -----Link instalacion QT---------
+
 https://ubunlog.com/qt-mas-qtcreator-ubuntu/
 
 ---------COMANDOS PARA INSTALAR FLEX Y BISON-------
